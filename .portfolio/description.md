@@ -1,0 +1,1 @@
+**Project 3D JSX** aims to explore the capabilities of JSX in rendering 3D graphics using JavaScript. It demonstrates how to create interactive 3D models and animations while leveraging the power of modern web standards.

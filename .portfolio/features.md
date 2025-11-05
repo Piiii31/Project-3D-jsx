@@ -1,0 +1,4 @@
+- **Interactive 3D Models**: Render and manipulate 3D models in real-time.
+- **Animations**: Add animations to objects for dynamic user experiences.
+- **User Controls**: Enable user interactions, such as rotation and scaling of 3D objects.
+- **Responsive Design**: Ensure compatibility across various devices and screen sizes.
